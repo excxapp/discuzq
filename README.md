@@ -1,6 +1,12 @@
 <p align="center"><img src="https://www.discuz.net/static/image/common/logo.svg"></p>
 
-### 仓库将做后续二开 
+### 仓库将做后续二开
+
+> 优化官方前端打包方式，
+> 加入api优化
+> 加入配套等
+> 二开功能优化
+
 
 ## 关于 Discuz! Q
 
