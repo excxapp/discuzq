@@ -1,5 +1,6 @@
 <p align="center"><img src="https://www.discuz.net/static/image/common/logo.svg"></p>
 
+### 仓库将做后续二开 
 
 ## 关于 Discuz! Q
 
